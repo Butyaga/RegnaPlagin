@@ -1,0 +1,9 @@
+﻿<RengaPlugin>
+	<Name>Qweqwe</Name>
+	<Version>1.0</Version>
+	<RequiredAPIVersion>2.37</RequiredAPIVersion>
+	<Vendor>Trali-Vali LLC</Vendor>
+	<Copyright>Copyright Trali-Vali LLC, 2024. All rights reserved.</Copyright>
+	<PluginFilename>RegnaPlagin.dll</PluginFilename>
+	<PluginType>Net</PluginType>
+</RengaPlugin>
